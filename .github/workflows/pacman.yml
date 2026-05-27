@@ -7,19 +7,17 @@ on:
   workflow_dispatch:
 
 jobs:
-  generate:
+  build:
+    runs-on: ubuntu-latest
+
     permissions:
       contents: write
 
-    runs-on: ubuntu-latest
-
     steps:
       - name: Generate Pacman Contribution Graph
-        uses: Platane/snk@v3
+        uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: CodewithAz01
-          outputs: |
-            dist/pacman-contribution-graph-dark.svg?palette=github-dark
 
       - name: Push Pacman Animation
         uses: crazy-max/ghaction-github-pages@v3.1.0
