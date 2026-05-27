@@ -1,6 +1,6 @@
-<!-- ===================================================== -->
-<!--                    CYBER BANNER                       -->
-<!-- ===================================================== -->
+<!-- ========================================================= -->
+<!--                    CYBER BANNER                           -->
+<!-- ========================================================= -->
 
 <div align="center">
 
@@ -16,9 +16,11 @@
 
 ### `Cybersecurity • AI Engineer • Full Stack Developer • Embedded Systems`
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=C77DFF&center=true&vCenter=true&width=700&lines=Cybersecurity+Enthusiast;AI+%26+Machine+Learning+Developer;Full+Stack+Web+Developer;Embedded+Systems+Engineer;Building+Real+World+Tech+Solutions" />
-
 <br/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=C77DFF&center=true&vCenter=true&random=false&width=850&lines=Cybersecurity+Enthusiast;AI+%26+Machine+Learning+Developer;Full+Stack+Developer;Embedded+Systems+Engineer;Building+Real+World+AI+Solutions;Ethical+Hacking+%26+Automation" />
+
+<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=CodewithAz01&label=PROFILE+VIEWS&color=7b2fff&style=for-the-badge" />
 
@@ -28,14 +30,17 @@
 
 # 🧠 SYSTEM PROFILE
 
+<img align="right" alt="Coding GIF" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
 ```python
 class AbdullahZahid:
 
     def __init__(self):
+
         self.name = "Abdullah Zahid"
         self.alias = "Coding with AZ"
 
-        self.role = [
+        self.roles = [
             "Cybersecurity Enthusiast",
             "AI Developer",
             "Full Stack Developer",
@@ -52,91 +57,116 @@ class AbdullahZahid:
         self.specialization = [
             "Artificial Intelligence",
             "Ethical Hacking",
-            "IoT Systems",
+            "Embedded Systems",
             "Automation"
         ]
 
     def current_focus(self):
+
         return [
             "AI Security Systems",
             "Machine Learning",
             "Advanced Cybersecurity",
-            "Smart Embedded Devices"
+            "Smart Embedded Devices",
+            "Freelance Development"
         ]
 
     def life_motto(self):
-        return "Build. Break. Learn. Secure."
+
+        return "Build • Break • Learn • Secure"
 ```
+
+<br/>
+
+- 🔐 Exploring **Cybersecurity & Ethical Hacking**
+- 🤖 Building **AI-Powered Intelligent Systems**
+- 🌐 Developing **Modern Full Stack Applications**
+- 📡 Creating **Embedded & IoT Solutions**
+- ⚡ Freelancer focused on real-world tech solutions
+- 🧠 Passionate about learning advanced technologies
+
+<br clear="right"/>
 
 ---
 
 # ⚔️ TECH ARSENAL
 
-## 💻 Languages
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,mysql" />
-
-</p>
-
----
-
-## 🚀 Frameworks & Tools
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=react,nodejs,git,github,vscode,arduino,linux,kali" />
-
-</p>
-
----
-
-## 🧠 CURRENTLY LEARNING
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,bash" />
-
-</p>
-
-- Advanced Cybersecurity
-- AI & Machine Learning
-- Ethical Hacking
-- Network Security
-- Embedded AI Systems
-
----
-
-# 🚀 FEATURED PROJECTS
-
-| Project | Description | Stack |
-|---|---|---|
-| 🔐 AI Weapon Detection System | Real-time AI-powered weapon detection using YOLOv8 and computer vision | Python • YOLOv8 • OpenCV |
-| 🌱 Plant Disease Detection | AI system for identifying plant diseases using deep learning | Python • TensorFlow • ML |
-| 🤖 Robotic Hand | App-controlled robotic hand with real-time movement mapping | Arduino • Python • C++ |
-| 📡 Smart Attendance System | RFID-based attendance tracking and automation system | Arduino • RFID • C++ |
-| 🎤 Voice Recognition AI | AI-powered voice command and speech recognition system | Python • SpeechRecognition |
-
----
-
-# 📊 GITHUB ANALYTICS
+## 💻 LANGUAGES
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=CodewithAz01&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=00000000" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodewithAz01&layout=compact&theme=midnight-purple&hide_border=true&bg_color=00000000" />
+<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,mysql" />
 
 </div>
 
 ---
 
-# 🔥 CONTRIBUTION STREAK
+## 🚀 FRAMEWORKS & TOOLS
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=CodewithAz01&theme=midnight-purple&hide_border=true&background=00000000" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,git,github,vscode,arduino,linux,kali" />
+
+</div>
+
+---
+
+## 🧠 CURRENTLY LEARNING
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,bash" />
+
+</div>
+
+<br/>
+
+- Advanced Cybersecurity
+- Ethical Hacking
+- AI & Machine Learning
+- Network Security
+- Smart Automation Systems
+- Embedded AI Devices
+
+---
+
+# 🚀 FEATURED PROJECTS
+
+<div align="center">
+
+| 💡 Project | ⚙️ Description | 🛠️ Technologies |
+|---|---|---|
+| 🔐 AI Weapon Detection System | Real-time AI-powered weapon detection using computer vision and deep learning | Python • YOLOv8 • OpenCV |
+| 🌱 Plant Disease Detection | Intelligent system for identifying plant diseases using AI models | Python • TensorFlow • Machine Learning |
+| 🤖 Robotic Hand | App-controlled robotic hand with real-time movement control | Arduino • Python • C++ |
+| 📡 Smart Attendance System | RFID-based attendance tracking automation system | RFID • Arduino • C++ |
+| 🎤 Voice Recognition AI | AI-powered voice assistant and speech recognition system | Python • SpeechRecognition |
+
+</div>
+
+---
+
+# 🏆 CERTIFICATIONS & BADGES
+
+<div align="center">
+
+<!-- Replace these with your Credly badge links -->
+
+<a href="YOUR_CREDLY_BADGE_LINK">
+  <img src="YOUR_BADGE_IMAGE_LINK" width="120px"/>
+</a>
+
+<a href="YOUR_CREDLY_BADGE_LINK">
+  <img src="YOUR_BADGE_IMAGE_LINK" width="120px"/>
+</a>
+
+<a href="YOUR_CREDLY_BADGE_LINK">
+  <img src="YOUR_BADGE_IMAGE_LINK" width="120px"/>
+</a>
+
+<a href="YOUR_CREDLY_BADGE_LINK">
+  <img src="YOUR_BADGE_IMAGE_LINK" width="120px"/>
+</a>
 
 </div>
 
@@ -146,7 +176,7 @@ class AbdullahZahid:
 
 <div align="center">
 
-<img src="[https://raw.githubusercontent.com/CodewithAz01/CodewithAz01/output/github-contribution-grid-snake-dark.svg](https://github.com/CodewithAz01/CodewithAz01/blob/main/snake.yml)" />
+<img src="https://raw.githubusercontent.com/CodewithAz01/CodewithAz01/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 </div>
 
@@ -156,7 +186,7 @@ class AbdullahZahid:
 
 <div align="center">
 
-<a href="YOUR_LINKEDIN">
+<a href="YOUR_LINKEDIN_LINK">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -164,8 +194,12 @@ class AbdullahZahid:
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="YOUR_PORTFOLIO">
+<a href="YOUR_PORTFOLIO_LINK">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox-browser&logoColor=white"/>
+</a>
+
+<a href="https://github.com/CodewithAz01">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
@@ -176,7 +210,7 @@ class AbdullahZahid:
 
 <div align="center">
 
-> *"The quieter you become, the more you are able to hear."*
+### *"The quieter you become, the more you are able to hear."*
 
 </div>
 
@@ -184,6 +218,6 @@ class AbdullahZahid:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=140&section=footer" />
 
 </div>
