@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHk3Njh3b2NkYW9zNnBjcDBya2xqY2VvZm5kOGE4OHB2a2x2b2N5ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif" width="100%" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHk3Njh3b2NkYW9zNnBjcDBya2xqY2VvZm5kOGE4OHB2a2x2b2N5ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif" width="70%" />
 
 </div>
 
@@ -20,7 +20,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=C77DFF&center=true&vCenter=true&random=false&width=850&lines=Cybersecurity+Enthusiast;AI+%26+Machine+Learning+Developer;Full+Stack+Developer;Embedded+Systems+Engineer;Building+Real+World+AI+Solutions;Ethical+Hacking+%26+Automation" />
 
-<br/><br/>
+<br/>
 
 <img src="https://komarev.com/ghpvc/?username=CodewithAz01&label=PROFILE+VIEWS&color=7b2fff&style=for-the-badge" />
 
@@ -30,105 +30,69 @@
 
 # 🧠 SYSTEM PROFILE
 
-<img align="right" alt="Coding GIF" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<div align="center">
 
-```python
-class AbdullahZahid:
+<table>
+<tr>
+<td width="50%">
 
-    def __init__(self):
+## ⚡ PROFILE DATA
 
-        self.name = "Abdullah Zahid"
-        self.alias = "Coding with AZ"
+```yaml
+Name: Abdullah Zahid
+Alias: Coding with AZ
 
-        self.roles = [
-            "Cybersecurity Enthusiast",
-            "AI Developer",
-            "Full Stack Developer",
-            "Embedded Systems Builder"
-        ]
+Role:
+  - Cybersecurity Enthusiast
+  - AI Developer
+  - Full Stack Developer
+  - Embedded Systems Builder
 
-        self.languages = [
-            "Python",
-            "C++",
-            "JavaScript",
-            "SQL"
-        ]
+Education:
+  - Northern University
+  - Computer Science
+  - 5th Semester
 
-        self.specialization = [
-            "Artificial Intelligence",
-            "Ethical Hacking",
-            "Embedded Systems",
-            "Automation"
-        ]
+Current Focus:
+  - Artificial Intelligence
+  - Ethical Hacking
+  - Smart Automation
+  - Embedded Systems
 
-    def current_focus(self):
+Operating Systems:
+  - Kali Linux
+  - Windows 11
 
-        return [
-            "AI Security Systems",
-            "Machine Learning",
-            "Advanced Cybersecurity",
-            "Smart Embedded Devices",
-            "Freelance Development"
-        ]
-
-    def life_motto(self):
-
-        return "Build • Break • Learn • Secure"
+Status:
+  - Building Real-World Projects
+  - Learning Advanced Technologies
 ```
 
-<br/>
+</td>
 
-- 🔐 Exploring **Cybersecurity & Ethical Hacking**
-- 🤖 Building **AI-Powered Intelligent Systems**
-- 🌐 Developing **Modern Full Stack Applications**
-- 📡 Creating **Embedded & IoT Solutions**
-- ⚡ Freelancer focused on real-world tech solutions
-- 🧠 Passionate about learning advanced technologies
-
-<br clear="right"/>
-
----
-
-# ⚔️ TECH ARSENAL
-
-## 💻 LANGUAGES
+<td width="50%">
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,mysql" />
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Cybersecurity-7b2fff?style=for-the-badge&logo=hackthebox&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/AI_Developer-00D4FF?style=for-the-badge&logo=openai&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Full_Stack-FF6B6B?style=for-the-badge&logo=react&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Embedded_Systems-FFD60A?style=for-the-badge&logo=arduino&logoColor=black"/>
 
 </div>
 
----
-
-## 🚀 FRAMEWORKS & TOOLS
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=react,nodejs,git,github,vscode,arduino,linux,kali" />
+</td>
+</tr>
+</table>
 
 </div>
-
----
-
-## 🧠 CURRENTLY LEARNING
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,bash" />
-
-</div>
-
-<br/>
-
-- Advanced Cybersecurity
-- Ethical Hacking
-- AI & Machine Learning
-- Network Security
-- Smart Automation Systems
-- Embedded AI Devices
-
----
 
 # 🚀 FEATURED PROJECTS
 
@@ -152,20 +116,24 @@ class AbdullahZahid:
 
 <!-- Replace these with your Credly badge links -->
 
-<a href="YOUR_CREDLY_BADGE_LINK">
-  <img src="YOUR_BADGE_IMAGE_LINK" width="120px"/>
+<a href="https://www.credly.com/badges/6d2993af-0654-454a-b670-eaae56166137/public_url">
+  <img src="assets/ethical-hacking-with-kali-linux.png" width="120px"/>
 </a>
 
-<a href="YOUR_CREDLY_BADGE_LINK">
-  <img src="YOUR_BADGE_IMAGE_LINK" width="120px"/>
+<a href="https://www.credly.com/badges/e246df13-9cc1-422b-883c-0bf336a1e224/public_url">
+  <img src="assets/exploitation-and-penetration-testing-with-metasploi.png" width="120px"/>
 </a>
 
-<a href="YOUR_CREDLY_BADGE_LINK">
-  <img src="YOUR_BADGE_IMAGE_LINK" width="120px"/>
+<a href="https://www.credly.com/badges/6d3487f4-7ca5-4b85-8064-722788c54fc9/public_url">
+  <img src="assets/introduction-to-cybersecurity-tools-and-cyberattack.png" width="120px"/>
 </a>
 
-<a href="YOUR_CREDLY_BADGE_LINK">
-  <img src="YOUR_BADGE_IMAGE_LINK" width="120px"/>
+<a href="=https://www.credly.com/badges/9a47dd03-ccdc-4368-9a2a-31eb21f94e28/public_url">
+  <img src="assets/network-security-database-vulnerabilities.png" width="120px"/>
+</a>
+
+<a href="https://www.credly.com/badges/dc3ae491-b65a-4b68-be7e-2f76a2065df5/public_url">
+  <img src="assets/operating-systems-overview-administration-and-secur.png" width="120px"/>
 </a>
 
 </div>
@@ -186,11 +154,11 @@ class AbdullahZahid:
 
 <div align="center">
 
-<a href="YOUR_LINKEDIN_LINK">
+<a href="https://www.linkedin.com/in/abdullah-zahid-000b39382/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="codingwithaz001@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
