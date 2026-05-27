@@ -4,14 +4,6 @@
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHk3Njh3b2NkYW9zNnBjcDBya2xqY2VvZm5kOGE4OHB2a2x2b2N5ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif" width="70%" />
-
-</div>
-
----
-
-<div align="center">
-
 # ⚡ ABDULLAH ZAHID ⚡
 
 ### `Cybersecurity • AI Engineer • Full Stack Developer • Embedded Systems`
@@ -37,7 +29,6 @@
 <td width="50%">
 
 ## ⚡ PROFILE DATA
-
 ```yaml
 Name: Abdullah Zahid
 Alias: Coding with AZ
@@ -75,9 +66,9 @@ Status:
 <div align="center">
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
-
-<br/><br/>
-
+<div align="center">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHk3Njh3b2NkYW9zNnBjcDBya2xqY2VvZm5kOGE4OHB2a2x2b2N5ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif" width="100%" />
+</div>
 <img src="https://img.shields.io/badge/Cybersecurity-7b2fff?style=for-the-badge&logo=hackthebox&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/AI_Developer-00D4FF?style=for-the-badge&logo=openai&logoColor=white"/>
